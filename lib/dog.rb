@@ -20,6 +20,8 @@ class Dog
     end
   end
   
+  def 
+  
 
   def self.clear_all
     @@all.clear
